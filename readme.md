@@ -14,8 +14,8 @@ Materiały posortowane według emisyjności:
 
 Nazwa materiału: Aluminium Kraków, masa: 3534904.0 kg, ślad węglowy: 29127608.96
 
-Nazwa materiału: Stal Wrocław, masa: 3567748.0 kg, ślad węglowy: 6600333.800000001
+Nazwa materiału: Stal Wrocław, masa: 3567748.0 kg, ślad węglowy: 6600333.80
 
-Nazwa materiału: beton Gliwice, masa: 234040.0 kg, ślad węglowy: 30425.2
+Nazwa materiału: beton Gliwice, masa: 234040.0 kg, ślad węglowy: 30425.20
 
 

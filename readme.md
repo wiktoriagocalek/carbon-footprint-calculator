@@ -6,7 +6,11 @@ A Python project that calculates the carbon footprint of construction materials 
 
 ## Example
 
-Concrete, 1000 kg → 130 kg CO2e
-Steel, 1000 kg → 1850 kg CO2e
-Aluminium, 1000 kg → 8240 kg CO2e
+Ślad węglowy wszystkich materiałów budowlanych wynosi 35758367.96
+Do najbardziej emisyjnych materiałów należą: ['Beton Gliwice', 'Stal Wrocław', 'Aluminium Kraków']
+Materiały posortowane według emisyjności: 
+Nazwa materiału: Aluminium Kraków, masa: 3534904.0 kg, ślad węglowy: 29127608.96
+Nazwa materiału: Stal Wrocław, masa: 3567748.0 kg, ślad węglowy: 6600333.800000001
+Nazwa materiału: beton Gliwice, masa: 234040.0 kg, ślad węglowy: 30425.2
+
 
